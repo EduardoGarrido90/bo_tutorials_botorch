@@ -1,2 +1,2 @@
-# bo_tutorials_botorch
+# Hands on Bayesian optimization with BOTorch
 BOTorch tutorials in Jupyter notebook format ready to be launched on Google Colab 
